@@ -37,6 +37,10 @@ http://bamus-eng-roku.amagi.tv/playlist.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?
 #EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
 http://red.ipfox.org:8080/osama2022/osama2023/49061?
+#EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC News
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/X7YYFZR2/euronews.png" group-title="News",Euro News
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CCTV 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 2
@@ -83,6 +87,8 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
 #EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
 http://78.83.191.18:8000/play/a03o?
+#EXTINF:-1 tvg-id="HorseandCountry.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="",Horse and Country
+https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 2
 http://red.ipfox.org:8080/osama2022/osama2023/49189?
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",FIGHT SPORTS
