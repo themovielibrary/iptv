@@ -43,22 +43,6 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CCTV 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 2
-#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/73?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 3
-#http://39.135.38.165:6610/000000001000/1000000001000011218/1.m3u8?IASHttpSessionId=OTT16157620200202041417014267&fmt=ts2hls&u=45768392
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 4
-#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/74?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 7
-#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/75?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 12
-#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/78?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 13
-#http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 15
-#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/79?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",CCTV 17
-#http://d8380c4177d6.sn.mynetname.net:25461/demo/demo/80?
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
