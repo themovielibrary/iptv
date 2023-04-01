@@ -31,30 +31,38 @@ https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southea
 #https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 #EXTINF:-1group-title="Movie Channel",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="LoveNature.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png" group-title="Outdoor",Love Nature
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
+#EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8?
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
-http://red.ipfox.org:8080/osama2022/osama2023/49061?
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC Media
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8?
 #EXTINF:-1 tvg-id="ABCNews.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.mjh.nz/.images/tv.101002210220.png" group-title="News",ABC News
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-country="INT" tvg-language="English" tvg-logo="https://i.postimg.cc/X7YYFZR2/euronews.png" group-title="News",Euro News
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="Channel44.au" tvg-country="AU" tvg-language="English" tvg-logo="" group-title="",Channel 44
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1 tvg-id="BloombergTVAsiaLiveEvent.us" tvg-country="APAC" tvg-language="English" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png" group-title="Business",Bloomberg
+https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CCTV 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?
-#EXTINF:0 tvg-country="AF;DZ;AM;AU;BB;CL;CO;DK;HU;IQ;OM;GB" tvg-logo="" group-title="Undefined",Amuse Animation
-https://amuse-amuseanimation-1-it.samsung.wurl.tv/playlist.m3u8?
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Cartoon Network
+http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="Weather",WeatherNews
 http://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",FashionTV WORLD
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8?
-#EXTINF:0 tvg-country="US" tvg-logo="https://wfc.tv/images/Logo-WF.png" group-title="Lifestyle",World Fashion Channel
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8?
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8?
+#EXTINF:0 tvg-country="GR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Lifestyle",Fashion TV
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8?
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="Shop",Jewelry Television
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8?
 #EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
@@ -69,8 +77,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
-#EXTINF:0 tvg-country="BG" tvg-logo="" group-title="Undefined",Boomerang
-http://78.83.191.18:8000/play/a03o?
 #EXTINF:-1 tvg-id="HorseandCountry.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="",Horse and Country
 https://hncfree-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="NL" tvg-logo="" group-title="Sport",ESPN 2
@@ -89,8 +95,40 @@ https://live.thairath.co.th/trtv2/playlist.m3u8
 http://thaipbs-live.cdn.byteark.com/live/playlist.m3u8?
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/tSflaoA.png" group-title="Undefined",Thai PBS (Opt-4)
 http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
+#EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News 1
+http://news1.live14.com/stream/news1_hi.m3u8?
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Undefined",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?
 #EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News
+#EXTINF:-1group-title="MYN",NBT
+http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Zee News Malayalam
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+#EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Family",The Pet Collective
+https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl (çç å°)
+https://live.astradamy.com/tvbpearl/index.m3u8?
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/cd5v79M.png" group-title="News",TVB News Channel
+https://tvp22.sky4k.top/index1.php?
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (ç¿¡ç¿ å°)
+https://live.astradamy.com/tvbfc/index.m3u8?
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK (æ¸¯å°é›»è¦–33)
+https://live.astradamy.com/hk33/index.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="News",NTV News24
+https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="" group-title="Undefined",NHK G
+http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/playlist.m3u8?
+#EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="Undefined",HKIBC
+https://live.astradamy.com/hk76/index.m3u8?
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Blue ç¾Žå‰§
+http://210.210.155.35/dr9445/h/h16/02.m3u8?
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ALL SPORTS
+http://168.205.87.198:8555/live/1431/123456/148.ts?
+#EXTINF:0 tvg-country="MY" tvg-logo="" group-title="Sport",DUBAI SPORTS
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8?
+#EXTINF:0 tvg-country="IE" tvg-logo="" group-title="Sport",Mav TV Motorsports Network
+https://mavtv-mavtvglobal-1-ie.samsung.wurl.tv/playlist.m3u8?
+#EXTINF:0 tvg-country="ID" tvg-logo="" group-title="Sport",TVRI Sport HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/index.m3u8?
