@@ -73,7 +73,7 @@ http://live.cgtn.com/1000/prog_index.m3u8?
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",é¦™æ¸¯å¼€ç”µè§† / HKSTV-HKS
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
