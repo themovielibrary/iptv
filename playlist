@@ -79,6 +79,8 @@ http://live.cgtn.com/1000/prog_index.m3u8?
 https://livedoc.cgtn.com/1000d/prog_index.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Korean" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" tvg-country="KR" tvg-url="" group-title="",Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
+https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheRokuChannel_880x880.png?raw=true" group-title="Undefined",Roku : iFood.tv
 https://ft-ifood-roku.amagi.tv/playlist.m3u8?
 #EXTINF:-1 tvg-id="HorseandCountry.au" tvg-country="AU" tvg-language="English" tvg-logo="https://i.imgur.com/r5Ip3P0.png" group-title="",Horse and Country
@@ -112,11 +114,11 @@ http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 #EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl (çç å°)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl (çç å°)
 https://live.astradamy.com/tvbpearl/index.m3u8?
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/cd5v79M.png" group-title="News",TVB News Channel
 https://tvp22.sky4k.top/index1.php?
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (ç¿¡ç¿ å°)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (ç¿¡ç¿ å°)
 https://live.astradamy.com/tvbfc/index.m3u8?
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK (æ¸¯å°é›»è¦–33)
 https://live.astradamy.com/hk33/index.m3u8?
