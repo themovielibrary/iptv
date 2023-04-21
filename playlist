@@ -35,6 +35,8 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 #EXTINF:-1group-title="Movie Channel",Movies
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Star Movies" tvg-logo="http://10.11.12.13/img/starmovies.jpg" group-title="LIVE TV",Star Movies
+http://103.141.2.37:25461/web/web/563
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
@@ -112,15 +114,19 @@ http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?
 http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
 #EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Zee News Malayalam
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Zee TV" tvg-logo="http://10.11.12.13/img/zeetv.png" group-title="LIVE TV",Zee TV
+http://103.141.2.37:25461/web/web/553
+#EXTINF:-1 tvg-id="" tvg-name="Masti" tvg-logo="http://10.11.12.13/img/masti.jpg" group-title="LIVE TV",Masti
+http://103.141.2.37:25461/web/web/558
 #EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl (çç å°)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl
 https://live.astradamy.com/tvbpearl/index.m3u8?
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/cd5v79M.png" group-title="News",TVB News Channel
 https://tvp22.sky4k.top/index1.php?
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade (ç¿¡ç¿ å°)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Jade
 https://live.astradamy.com/tvbfc/index.m3u8?
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK (æ¸¯å°é›»è¦–33)
+#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",RTHK
 https://live.astradamy.com/hk33/index.m3u8?
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="News",NTV News24
 https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8?
