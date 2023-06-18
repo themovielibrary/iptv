@@ -17,8 +17,6 @@ http://183.89.246.119:8881/play/a07t/index.m3u8
 #https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1group-title="MYN",YTV
 http://183.89.246.119:8881/play/a081/index.m3u8
-#EXTINF:-1group-title="MYN",TVM
-http://203.81.84.130/hls/mwd_serie/index.m3u8
 #https://foreveralive1-#a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-#1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1,MWD 
 http://203.81.84.130/hls/mwd/index.m3u8
