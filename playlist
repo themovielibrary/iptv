@@ -3,6 +3,16 @@
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:0 ,MRTV 4
 #http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+#EXTINF:-1group-title="MYN",5plus
+http://183.89.246.119:8881/play/a07w/index.m3u8
+#EXTINF:-1group-title="MYN",Channel9
+http://183.89.246.119:8881/play/a07y/index.m3u8
+#EXTINF:-1group-title="MYN",FORTUNE
+http://183.89.246.119:8881/play/a082/index.m3u8
+#EXTINF:-1group-title="MYN",GoldenLand
+http://203.81.84.130/hls/mwd_document/index.m3u8
+#EXTINF:-1group-title="MYN",Channelme
+http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",Channel 7
 #https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1group-title="MYN",YTV
