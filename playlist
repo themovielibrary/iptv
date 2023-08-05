@@ -133,8 +133,6 @@ https://live.astradamy.com/tvbfc/index.m3u8?
 https://live.astradamy.com/hk33/index.m3u8?
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/lbdQtOq.png" group-title="News",NTV News24
 https://ythls.onrender.com/channel/UCuTAXTexrhetbOe3zgskJBQ.m3u8?
-#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?
 #EXTINF:0 tvg-country="HK" tvg-logo="https://i.imgur.com/jaIdkbz.png" group-title="Undefined",HKIBC
 https://live.astradamy.com/hk76/index.m3u8?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Blue ç¾Žå‰§
