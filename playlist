@@ -4,19 +4,19 @@ http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:0 ,MRTV 4
 #http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 #EXTINF:-1group-title="MYN",5plus
-http://183.89.246.119:8881/play/a07w/index.m3u8
+#http://183.89.246.119:8881/play/a07w/index.m3u8
 #EXTINF:-1group-title="MYN",Channel9
-http://183.89.246.119:8881/play/a07y/index.m3u8
+#http://183.89.246.119:8881/play/a07y/index.m3u8
 #EXTINF:-1group-title="MYN",FORTUNE
-http://183.89.246.119:8881/play/a082/index.m3u8
+#http://183.89.246.119:8881/play/a082/index.m3u8
 #EXTINF:-1group-title="MYN",GoldenLand
-http://203.81.84.130/hls/mwd_document/index.m3u8
+#http://203.81.84.130/hls/mwd_document/index.m3u8
 #EXTINF:-1group-title="MYN",Channelme
-http://183.89.246.119:8881/play/a07t/index.m3u8
+#http://183.89.246.119:8881/play/a07t/index.m3u8
 #EXTINF:-1group-title="MYN",Channel 7
 #https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1group-title="MYN",YTV
-http://183.89.246.119:8881/play/a081/index.m3u8
+#http://183.89.246.119:8881/play/a081/index.m3u8
 #https://foreveralive1-#a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-#1/6057949479001/profile_2/chunklist.m3u8
 #EXTINF:-1,MWD 
 http://203.81.84.130/hls/mwd/index.m3u8
@@ -42,8 +42,10 @@ https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #EXTINF:-1group-title="MYN",VOA Myanmar
 #https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
+#EXTINF:0 tvg-country="UN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png" group-title="Movies;FRANCE",Movie box
+https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8?
 #EXTINF:-1group-title="Movie Channel",Movies
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",Thrill
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE 4K
@@ -74,6 +76,12 @@ http://210.210.155.37/qwr9ew/s/s19/index.m3u8
 http://media.fantv.hk/m3u8/archive/channel2.m3u8?
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/SQISXoD.jpg" group-title="News",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/9u9TaMA.png" group-title="Shop",QVC Japan
+https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/3K36JEA.jpg" group-title="Shop",Shop Channel
+https://stream3.shopch.jp/HLS/master.m3u8?
+#EXTINF:0 tvg-country="JP" tvg-logo="https://dbbovgtu2bg0x.cloudfront.net/uploads/program/main_image/749853303/app_app_wether_news.png" group-title="Weather",Weather News
+http://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8?
 #EXTINF:0 tvg-country="UN" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png" group-title="Undefined",Cartoon Network
 http://livestream.biznetvideo.net:80/biznet_kids/smil:kids.smil/playlist.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=qAri1M2xu_MAlnHwVRtOs24lR8Y_HSDijN2CRNghifUllhYqQSDlkd0qE8CkZwxC&bizkeylivestarttime=0
 #EXTINF:0 tvg-country="JP" tvg-logo="https://i.imgur.com/tYZz5CC.png" group-title="Weather",WeatherNews
@@ -113,12 +121,6 @@ http://news1.live14.com/stream/news1_hi.m3u8?
 #EXTINF:0 tvg-country="TH" tvg-logo="https://i.imgur.com/lK52fpm.png" group-title="Undefined",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8?
 #EXTINF:0 tvg-country="TH" tvg-logo="https://news1live.com/images/social-share-logo.png" group-title="Undefined",ASTV News 1,News
-#EXTINF:-1group-title="MYN",NBT
-http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-#EXTINF:0 tvg-country="IN" tvg-logo="" group-title="News",Zee News Malayalam
-https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Masti" tvg-logo="http://10.11.12.13/img/masti.jpg" group-title="LIVE TV",Masti
-http://103.141.2.37:25461/web/web/558
 #EXTINF:-1 tvg-id="ThePetCollectiveIndia.in" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="Family",The Pet Collective
 https://the-pet-collective-international-in.samsung.wurl.tv/playlist.m3u8
 #EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",TVB Pearl (çç å°)
