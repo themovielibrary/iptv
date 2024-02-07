@@ -72,9 +72,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="CHINA",CCTV-13
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
-#EXTINF:0 tvg-country="HK" tvg-logo="" group-title="Undefined",HKSTV-HKS
-http://media.fantv.hk/m3u8/archive/channel2.m3u8?
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",æ¬§ç¾Žå¤§ç‰‡1
+##EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",æ¬§ç¾Žå¤§ç‰‡1
 http://epg.112114.xyz/douyu/20415?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",æ¬§ç¾Žå¤§ç‰‡2
 http://epg.112114.xyz/douyu/2793084?
