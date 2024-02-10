@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:0 ,MNTV
 http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
-#EXTINF:0 ,MRTV 4
-#http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
 #EXTINF:-1group-title="MYN",5plus
 #http://183.89.246.119:8881/play/a07w/index.m3u8
 #EXTINF:-1group-title="MYN",Channel9
@@ -10,28 +8,6 @@ http://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8
 #EXTINF:-1group-title="MYN",FORTUNE
 #http://183.89.246.119:8881/play/a082/index.m3u8
 #EXTINF:-1group-title="MYN",GoldenLand
-#http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1group-title="MYN",Channelme
-#http://183.89.246.119:8881/play/a07t/index.m3u8
-#EXTINF:-1group-title="MYN",Channel 7
-#https://foreveralive1-a.akamaihd.net/db889d68019848c5b303610afdae3190/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1group-title="MYN",YTV
-#http://183.89.246.119:8881/play/a081/index.m3u8
-#https://foreveralive1-#a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-#1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1,MWD 
-http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1,MWD Variety 
-http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1,Movie HD
-http://203.81.84.130/hls/mwd_serie/index.m3u8
-#EXTINF:-1,Documentry HD
-http://203.81.84.130/hls/mwd_document/index.m3u8
-#EXTINF:-1,Series HD 
-http://203.81.84.130/hls/mwd_movie/index.m3u8
-#EXTINF:-1,Shopping HD
-http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1,Family HD
-http://203.81.84.130/hls/mwd_family/index.m3u8
 #EXTINF:-1group-title="MYN",MAHAR
 https://tv.mahar.live/mahar/website.stream/playlist.m3u8
 #EXTINF:-1group-title="MYN",MVM
@@ -44,10 +20,6 @@ https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8
 #https://voa-lh.akamaihd.net/i/voa_mpls_tvmc5@320297/master.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="https://www.lyngsat.com/logo/tv/mm/movie_box_mn.png" group-title="Movies;FRANCE",Movie box
 https://cdn1.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8?
-#EXTINF:-1group-title="Movie Channel",Movies
-#http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1 tvg-id="Thrill.hk" tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Movies",Thrill
-http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",LOVE NATURE 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?
 #EXTINF:0 tvg-country="SG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" group-title="News",CNA HD
@@ -70,8 +42,6 @@ https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Undefined",CCTV 1
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8?
-#EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/6MTar6J.png" group-title="CHINA",CCTV-13
-http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Movie 1
 http://epg.112114.xyz/douyu/20415?
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CHINA",Movie 2
@@ -114,8 +84,6 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8?
 #EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/1HJraea.png" group-title="Shop",Jewelry Television
 https://cdn3.wowza.com/1/eUdsNEcyMmRvckor/K3pydHZw/hls/live/playlist.m3u8?
-#EXTINF:0 tvg-country="CA" tvg-logo="https://i.imgur.com/FlJVD8a.png" group-title="Shop;Undefined",CA | The Shopping Channel,The Shopping Channel
-http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/c5Yj2to.png" group-title="News",CGTN
 http://live.cgtn.com/1000/prog_index.m3u8?
 #EXTINF:0 tvg-country="CN" tvg-logo="https://i.imgur.com/TSG6WBy.png" group-title="Documentary",CGTN Documentary
